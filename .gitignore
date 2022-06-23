@@ -1,0 +1,10 @@
+# IDE
+.idea
+.vscode
+
+# Python
+.venv
+venv
+
+# User private config
+conf.yml
